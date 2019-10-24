@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Exercício 2</title>
+        <meta charset="UTF-8">
+    </head>
+    
+    <body>
+
+        <h1>(Nome Aluno) - Nº XX</h1>
+
+        <br>
+
+        <a href="Exercicio_1.html"><h1><u>Ir para o exercício 1</u></h1></a>
+
+        <a  href="https://www.google.com">
+            <img src="img/cao.jpg" 
+            alt="Texto alternativo" 
+            title="Avatar" 
+            height="300" 
+            width="400"/>
+        </a>
+
+    </body>
+
+</html>
