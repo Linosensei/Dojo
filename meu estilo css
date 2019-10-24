@@ -1,0 +1,12 @@
+
+h2 {
+    color:blue;
+}
+
+.verde {
+    color: green;
+}
+
+#titulo {
+    color: red;
+}
