@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Exercício 1</title>
+        <meta charset="UTF-8">
+    </head>
+    
+    <body>
+
+        <h1>(Nome Aluno) - Nº XX</h1>
+
+        <br>
+
+        <h1><b>Tamanho 1</b></h1>
+        <h3><i>Tamanho 3</i></h3>
+        <h5><u>Tamanho 5</u></h5>
+
+        <br>
+        
+        <p>m<sup>2</sup></p>
+        <p>CO<sub>2</sub></p>
+        
+
+    </body>
+
+</html>
